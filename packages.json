@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": "io.github.scottdwr.shortcuts.select",
     "version": "1.0",
     "author": {
@@ -13,5 +12,4 @@
     "link": "https://scottdwr.github.io/shortcuts/depiction/about.html",
     "icon": "https://scottdwr.github.io/shortcuts/depiction/shortcuts.jpeg",
     "catagory":"utilites"
-  }
-]
+}]
