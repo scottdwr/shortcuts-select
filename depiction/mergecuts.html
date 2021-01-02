@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html dir="auto">
+<html lang="en">
+  <head>
+    <title>MergeCuts</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      @charset "utf-8"; 
+      html { 
+        font-size:100%;
+        font-family: Helvetica, Arial, Freesans, clean, sans-serif;
+      }     
+      body {
+         margin:0;
+         padding:1em;
+      }
+      @media (max-device-width: 480px) { 
+      } 
+      @media (min-device-width: 481px) { 
+         body {
+           margin:auto;
+           max-width:600px;
+         } 
+      }
+      img {
+         max-width: 90%;
+      }
+    </style>
+  </head>
+  <body>
+     <p>
+      <div>
+       <h2>MergeCuts</h2>
+<h3>Merge several shortcuts into one and transfer actions from your shortcuts into other shortcuts</h3>
+<p><em>Author: <a href="https://routinehub.co/user/ROP"> <strong>@ROP</strong> </a></em></p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p><img src="https://i.imgur.com/kpoXlNs.jpg" alt="Made for iOS 13" /></p>
+<p><img src="https://i.imgur.com/AOOjHoU.png" alt="MergeCuts Banner" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p><img src="https://i.imgur.com/3gZZqIZ.png" alt="MergeCuts is 100% Malware Free" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><h1>Welcome to MergeCuts</h1>
+<p><img src="https://i.imgur.com/wFlWUWH.jpg" alt="MergeCuts 1.2" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><h2>Introduction</h2>
+<p>Creating shortcuts is a lot of fun. However, depending on the complexity of the task, a shortcut can easily contain hundreds or even thousands of actions. Often, shortcuts consist of several functions, each of which could be its own little shortcut.</p>
+<p>For quite some time now I have gotten into the habit of breaking down individual functions into their own little shortcuts so that I can test and edit them individually. Another advantage is that I don't have to scroll up and down to the position I'm working on, especially with very action-rich shortcuts. After all, with several hundreds of actions, one can quickly lose the overview. But what to do with, for example, five small shortcuts that should actually be part of a big one?</p>
+<p>The idea for MergeCuts was born. With MergeCuts you can (among other things) merge several shortcuts with another one. To do this, MergeCuts looks for a comment in the target shortcut with the content <em>MergeCuts</em>. Exactly at this point, the comment is replaced by the source shortcut(s). So you can easily create one shortcut out of several shortcuts.</p>
+<p>This concept is extended by an option to be able to transfer individual actions of a shortcut. This is done with the help of special comments in the source shortcut. You can find out exactly how this works here This feature extends the flexibility of MergeCuts and allows you to copy and paste actions easily.</p>
+<p>Another feature of MergeCuts is the creation of your personal library of shortcuts or actions that you use frequently (an updater, a special dictionary, menus, etc.) You can easily access these snippets at any time to include the actions in your shortcuts.</p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/Hkhwqj7.png" alt="MergeCuts Main Menu &amp; Target Shortcut" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/yARWC5A.png" alt="Merge" /></p>
+<h1>Merge</h1>
+<h3><em>MergeCuts offers you three ways to merge shortcuts together:</em></h3>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><h4>1. Transfer one or more shortcuts from "My Shortcuts" to another shortcut.</h4>
+<h4>2. Transfer individual actions of a shortcut from "My Shortcuts" to another shortcut.</h4>
+<h4>3. Transfer actions that you have saved as snippets in your personal "MergeCuts Library" to another shortcut.</h4>
+<p><strong>Important:</strong> No matter which of the three options you choose, for all of them, applies: In order for MergeCuts to recognize where your shortcuts, actions, snippets should be transferred to the target shortcut, your target shortcut needs a comment action with the content <em>MergeCuts</em> (including the asterisks). The merge takes place by finally replacing this comment with the shortcuts, actions or snippets you selected before.</p>
+<p><img src="https://i.imgur.com/EAzm7kH.png" alt="MergeCuts Comment" /></p>
+<p><img src="https://i.imgur.com/LoR8kaT.png" alt="Merge" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/QkITbPp.png" alt="Select Shortcuts" /></p>
+<h2>Select Shortcuts</h2>
+<h4><em>The function of being able to transfer complete shortcuts to another shortcut is based on the basic idea of MergeCuts, which you got to know in the introduction.</em></h4>
+<p><strong>And that's how it works:</strong></p>
+<p>In the first step, decide how many shortcuts you want to transfer. The background of this action is to ensure the correct order in the target shortcut.</p>
+<p>For example, if you want to transfer two shortcuts named "KB-X" and "KB-Y" to shortcut "KB-Z" you type "2" in the first step. Now all your shortcuts from "My Shortcuts" are displayed in a list. Select the shortcut to be copied first, in this example "KB-Y".</p>
+<p>The list opens again and you select the second shortcut—in this example "KB-X". With this you have determined the order:</p>
+<ol>
+<li>"KB-Y" </li>
+<li>"KB-X" </li>
+</ol>
+<p>In the last step, you select "KB-Z", the target shortcut. If this shortcut contains the MergeCuts comment (<em>MergeCuts</em>), your three shortcuts will merge into one. You will be prompted to create the iCloud link, and then you can easily import the new shortcut.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/2AB7TN1.png" alt="Select Actions" /></p>
+<h2>Select Actions</h2>
+<h4><em>Transferring individual actions from one shortcut to another is an extension of MergeCuts that gives you even more flexibility.</em></h4>
+<p><strong>And that's how it works:</strong></p>
+<p>If you want to transfer individual actions of a shortcut from "My Shortcuts" to another shortcut, you should first make some preparations.</p>
+<p>Not only does your target shortcut need a special comment, but also your source shortcut—but with the content <em>MergeActions</em> (including the asterisks)—and up to two comments of this kind. What for? You'll find out now:</p>
+<p><img src="https://i.imgur.com/npZUUFf.png" alt="MergeActions Comment" /></p>
+<p>Open the shortcut that contains the actions you want to transfer to another shortcut. Now add a comment action containing <em>MergeActions</em> (including the asterisks) in front of the first action you want to copy. Add a second comment with the same content below the last action you want to copy. Thus you have created a kind of frame around the actions you want to transfer to your target shortcut.</p>
+<p>Alternatively, you can just add a single <em>MergeActions</em> comment. However, this will cause all actions below the comment to be selected.</p>
+<p>If you do not add a single comment in the source shortcut, all actions of the shortcut are selected.</p>
+<p>These are the possible preparations you can or should make. Why is this recommended? Later you will be shown a list of all actions that are located between two comments or under a single comment. From this list, you can then transfer all actions or limit the selection further.</p>
+<p><strong>Example:</strong></p>
+<p>Your shortcut "KB-X" consists of 100 actions.</p>
+<ol>
+<li><p><strong>Two comments:</strong> You want to copy the actions 25-50, so in "KB-X" put the first comment in position 24 and the second comment in position 51, then when you select shortcut "KB-X", the actions 25-50 will be displayed in a list. You can then decide whether you want to transfer all 25 actions to your target shortcut or only some of them.</p>
+</li>
+<li><p><strong>One comment:</strong> You want to copy the actions 75-100, so you put a comment in "KB-X" at position 74, and then when you select shortcut "KB-X", the actions 75-100 are shown in a list. You can then decide whether you want to transfer all 25 actions to your target shortcut or only some of them.</p>
+</li>
+<li><p><strong>No comment:</strong> If you have not inserted a comment with the content <em>MergeActions</em> in the shortcut "KB-X", the following happens: If you select "KB-X" in MergeCuts, all actions, i.e. 1-100, will be displayed in a list. You can then decide whether you want to transfer all 100 actions to your target shortcut or only some of them. But: It takes a relatively long time until this list is generated from 100 actions. That's why it is recommended to add the corresponding <em>MergeActions</em> comments before. This also has the advantage that you have the actions visually in front of you because the list of actions is only partially readable. If you want to transfer all actions of a shortcut anyway, use the option "Select Shortcuts", which is designed for this purpose.</p>
+</li>
+</ol>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/8BKc7tO.png" alt="Select Snippets" /></p>
+<h2>Select Snippets</h2>
+<h4>You can transfer snippets that are in your personal MergeCuts library just as easily as you have learned to transfer entire shortcuts.</h4>
+<p><strong>And that's how it works:</strong></p>
+<p>Decide in the first step how many snippets you want to transfer. The reason for this action is to ensure the correct order in the target shortcut.</p>
+<p>For example, if you want to transfer two snippets named "SP-X" and "SP-Y" to shortcut "KB-Z" type "2" in the first step.</p>
+<p>Now all your snippets from your created library are displayed in a list. Select the snippet to be copied first, in this example "SP-Y".</p>
+<p>The list opens again and you select the second snippet—in this example "SP-X". With this you have determined the order:</p>
+<ol>
+<li>"SP-Y" </li>
+<li>"SP-X" </li>
+</ol>
+<p>In the last step, you select "KB-Z", the target shortcut. If this shortcut contains the MergeCuts comment (<em>MergeCuts</em>), your two snippets will be merged with the shortcut "KB-Z". You will be prompted to create the iCloud link and then you can easily import the new shortcut.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><h3><em>Important notice</em></h3>
+<p>MergeCuts checks if one of your source shortcuts (snippets remain unaffected by this) uses the share sheet function. If this is the case, you have two options:</p>
+<ol>
+<li>If you don't use the share sheet function (for this you choose <strong>Yes</strong>), the affected shortcut can be inserted exactly where the comment is placed—even if there are other actions underneath. <em>You can easily activate the share sheet function later in the new shortcut and make the appropriate adjustments.</em></li>
+<li>If you want to transfer the share sheet functionality (you have to select <strong>No</strong>), then the comment has to be at the end of the target shortcut, because all following actions will be overwritten. <em>All actions of a shortcut with share sheet activated are embedded in a repeat action, so that you can still easily move the actions to the position that was actually intended.</em></li>
+</ol>
+<p>Please note that you cannot transfer multiple shortcuts at the same time if one of them uses the share sheet function. If this is still the case and you tap on <strong>No</strong>, MergeCuts will be closed automatically and you need to start over. Don't worry, everything will be explained to you in the shortcut when the case arrives.</p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/8BKc7tO.png" alt="Library" /></p>
+<h1>Library</h1>
+<h3><em>With the MergeCuts library you can create snippets of frequently used actions for later use. You can save whole shortcuts or just single actions. In the end, both options come to the same conclusion. It all depends on how you work.</em></h3>
+<p><img src="https://i.imgur.com/2qybwI4.png" alt="Library" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/O1116Gj.png" alt="Add Shortcuts" /></p>
+<h2>Add Shortcuts</h2>
+<h4><em>If you want to add an entire shortcut to your collection, it's easy with this.</em></h4>
+<p>You will see all your shortcuts from "My Shortcuts" and you simply select the shortcut whose actions you want to save. The name of the shortcut is offered as a suggestion, but you can, of course, decide for yourself how you want to name the item.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/O1116Gj.png" alt="Add Actions" /></p>
+<h2>Add Actions</h2>
+<h4><em>If you want to add actions of a shortcut to your library, you should prepare it with the _MergeActions</em> comments, as you have already learned in "Merge"._</h4>
+<p>You will see all your shortcuts from "My Shortcuts" and you simply select the shortcut whose actions you want to save. Here you can also decide later if you want to save all or only some of your actions. You choose the name of the entry yourself.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><h3><em>Important notice</em></h3>
+<p>Shortcuts/Snippets that you save in your library always have a disabled share sheet function. So you have to activate it later in the final shortcut and reconnect/adjust the corresponding action(s)—which is no big deal.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/kP9BRnX.png" alt="Remove" /></p>
+<h2>Remove</h2>
+<h4><em>If you no longer need snippets from your library, you can easily remove them from your personal MergeCuts library.</em></h4>
+<p>Your entries are displayed alphabetically. You can remove one or more snippets at once. Simply select the items you want to remove and then tap "Done". Your entries will be removed immediately. This step cannot be undone.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/ZyNMgpU.png" alt="Preview" /></p>
+<h2>Preview</h2>
+<h4><em>The MergeCuts preview feature offers you a visual view of your entries saved in the MergeCuts library.</em></h4>
+<p>Ideally, you should name your entries so that you can remember what actions are behind them. If this is not the case, you can view your actions in the same way you are used to when creating/editing shortcuts in the app.</p>
+<p>Your snippets are displayed in a list sorted alphabetically. Select the entry for which you want to generate the preview. This preview is generated live and requires you to create an iCloud link. A new window will open and the preview will be shown after a short time.</p>
+<p>Please note that the preview feature was actually designed for iOS 12 shortcuts. Therefore the appearance of the actions is the same as in iOS 12. iOS 13 shortcuts are still displayed as well. Some actions are unfortunately not supported, but a message will alert you in case of an error. The preview function is rudimentary but should serve its purpose. In the future, iOS 13 shortcuts will also be fully supported. Please be patient until then.</p>
+<p><img src="https://i.imgur.com/dQaOwTD.png" alt="Preview" /></p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/LDnAi1B.png" alt="Guide" /></p>
+<h1>Guide</h1>
+<h3><em>MergeCuts has an integrated guide that explains all functions of the shortcut in detail.</em></h3>
+<p>Nice to know: The guide adapts to your display settings (Light or Dark Mode) as well as to the selected theme.</p>
+<p><img src="https://i.imgur.com/odyzgxq.png" alt="Guide" /></p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/s83kZDP.png" alt="Settings" /></p>
+<h1>Settings</h1>
+<h3><em>MergeCuts offers you various setting options, which you can change at any time and adapt to your wishes.</em></h3>
+<p><img src="https://i.imgur.com/nTCW0W0.png" alt="Settings" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/OOdpWy6.png" alt="Update Check" /></p>
+<h2>Update Check</h2>
+<p>MergeCuts uses a built-in update mechanism that automatically checks for updates on RoutineHub.co. Set here in days how often to search for an update. For example, if you decide for 3 days and use MergeCuts daily, it will only check for updates every three days. If you choose 0 days, MergeCuts will check for updates every time you run it. You do not have to worry about the speed of the shortcut. No matter which update check interval you choose, it will not significantly affect the speed of MergeCuts.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/WDjiLY5.png" alt="Selection" /></p>
+<h2>Selection</h2>
+<p>This setting area is dedicated exclusively to the option of transferring individual actions of one shortcut to another. By default, all actions are selected initially. Since you would ideally prepare your shortcut with <em>MergeActions</em> comments anyway, there is no direct reason why the actions should not be selected initially. However, with this setting, you have the freedom to influence this behaviour.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/pLf3aYk.png" alt="Order" /></p>
+<h2>Order</h2>
+<p>In order for you to select the source and destination shortcut, a list of your shortcuts from "My Shortcuts" is displayed. You can decide for yourself whether these shortcuts are to be displayed alphabetically (A-Z) or whether the order of the displayed shortcuts corresponds to the sort order you created in "My Shortcuts". Alternatively, you can also display everything in the order of the shortcut you last edited. The most recently edited shortcut is at the top.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/Pt84dJW.png" alt="Theme" /></p>
+<h2>Theme</h2>
+<p>MergeCuts has a visual menu concept, which should simplify the navigation for you. You can choose between the Classic and the Emojified theme. The Classic theme also supports the display settings of iOS. This means that the theme adapts itself depending on whether you use the Light or Dark Mode. The MergeCuts Guide also adapts visually according to your choice.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/0VMnyp6.png" alt="Language" /></p>
+<h2>Language</h2>
+<p>MergeCuts currently offers you three languages to choose from—English, German and French. During the setup process, you have already chosen a language initially. You can change this language setting here at any time.</p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><h1>Credits</h1>
+<h3><em>Special thanks to <a href="https://routinehub.co/user/pfg">@pfg</a>, <a href="https://routinehub.co/user/robric18">@robric18</a> and <a href="https://routinehub.co/user/elio27">@elio27</a>.</em></h3>
+<p>MergeCuts uses the ScPL Preview feature to generate previews for the snippets stored in the MergeCuts library. I have added a dark mode version. Thanks to the help of robric18 the feature of transferring actions could be significantly optimized! Thanks to elio27 for translating MergeCuts into French.</p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><blockquote>
+<h2>Warning</h2>
+<h4><em>MergeCuts does not accept any liability for the loss of data caused by the use of the shortcut. Please make sure you have a backup and at best duplicate shortcuts before using them with MergeCuts.</em></h4>
+</blockquote>
+<p>To be honest, not a single thing happened during the entire development and testing phase. But you never know...</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><h2>No third party Updater Shortcut required.</h2>
+<p><em>MergeCuts</em> has an integrated update mechanism called <a href="https://routinehub.co/shortcut/2672">Embed-a-Update</a>. Thanks to the embedded updater, <em>MergeCuts</em> does not require any external updater shortcut. The shortcut checks for updates itself, so you'll always be up to date and never miss an update.</p>
+<p><img src="https://i.imgur.com/cpBjhE3.png" alt="This Shortcut supports Embed-a-Update" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><h4><em>All graphics on this page were made with MediaKit</em></h4>
+<p><img src="https://i.imgur.com/2Unqyoq.png" alt="Graphics created with MediaKit" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://i.imgur.com/VBSZY2Y.png" alt="Exclusively available on RoutineHub.co" /></p>
+<p><em>This Shortcut is available exclusively on RoutineHub.co. If you find it somewhere else, it's a fake. Please let me know in the comments below if you found this Shortcut somewhere else. Thanks.</em></p>
+
+<hr />
+<p><img src="https://i.imgur.com/WaPb7gw.png" alt="ROPcuts Malware Free" /></p>
+
+<hr />
+<p><img src="https://i.imgur.com/Ibhf3Q6.png" alt="Made by ROPcuts" /></p>
+
+<hr />
+
+      </div>
+     </p>
+  </body>
+</html>
