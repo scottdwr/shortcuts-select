@@ -1,2 +1,2 @@
-> #### [_a repository by @scottdwr_](https://scottdwr.github.io/shortcuts/)
+# [_Select iOS Shortcuts by @scottdwr_](https://scottdwr.github.io/shortcuts/depiction/about.html)
 ---
