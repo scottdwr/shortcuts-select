@@ -14,20 +14,6 @@
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts.jpeg"
 },{
   "author" : {
-    "name" : "@ROP",
-    "link" : "https://routinehub.co/user/ROP"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.mergecuts",
-  "catagory" : "",
-  "link" : "https://routinehub.co/download/20527/",
-  "version" : "1.2.1",
-  "description" : "Merge several shortcuts into one and transfer actions from your shortcuts into other shortcuts",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/mergecuts.html",
-  "name" : "MergeCuts",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/mergecuts.jpeg"
-},{
-  "author" : {
     "name" : "@alombi",
     "link" : "https://routinehub.co/user/alombi"
   },
@@ -36,8 +22,22 @@
   "catagory" : "",
   "link" : "https://www.icloud.com/shortcuts/205e526aaee44af58885a13a1832bc43",
   "version" : "1.3",
-  "description" : "A powerful developer tool built for ensure a better user experience",
+  "description" : "A powerful developer tool built to ensure a better user experience",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/screenkit.html",
   "name" : "ScreenKit",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/screenkit.jpeg"
+},{
+  "author" : {
+    "name" : "@ROP",
+    "link" : "https://routinehub.co/user/ROP"
+  },
+  "arch" : "ios14",
+  "id" : "io.github.scottdwr.shortcuts.select.mergecuts",
+  "catagory" : "",
+  "link" : "https://www.icloud.com/shortcuts/dee392af07a742c9965d06d31ed5dd7f",
+  "version" : "1.2.1",
+  "description" : "Merge several shortcuts into one and transfer actions from your shortcuts into other shortcuts",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/mergecuts.html",
+  "name" : "MergeCuts",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/mergecuts.jpeg"
 }]
