@@ -1,7 +1,7 @@
 {
-  "name": "Select iOS Shortcuts",
+  "name": "iOS Shortcuts [Select]",
   "version": "1.0",
   "description": "A curated selection of premium iOS Shortcuts.",
   "icon": "https://scottdwr.GitHub.io/shortcuts/depiction/shortcuts.jpeg",
-  "id":"io.github.scottdwr.shortcuts.repo"
+  "id":"io.github.scottdwr.shortcuts.select"
 }
