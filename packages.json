@@ -33,7 +33,7 @@
   },
   "arch" : "ios14",
   "id" : "io.github.scottdwr.shortcuts.select.mergecuts",
-  "catagory" : "",
+  "catagory" : "development-tools",
   "link" : "https://www.icloud.com/shortcuts/dee392af07a742c9965d06d31ed5dd7f",
   "version" : "1.2.1",
   "description" : "Merge several shortcuts into one and transfer actions from your shortcuts into other shortcuts",
