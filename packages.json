@@ -236,4 +236,25 @@
   },
   "name" : "MergeCuts",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/mergecuts.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.adguard-dns-profiles",
+  "description" : "Install the new AdGuard DNS profiles on your devices and say bye to ads and trackers",
+  "version" : "1.02",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@jsmglx",
+    "link" : "https://routinehub.co/user/jsmglx"
+  },
+  "link" : "https://www.icloud.com/shortcuts/6badc92d084344fc868f3907f7c20800",
+  "catagory" : "productivity",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns-profiles.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "AdGuard DNS Profiles",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns-profiles.html"
 }]
