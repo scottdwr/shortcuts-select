@@ -186,12 +186,12 @@
     "link" : "https://routinehub.co/user/TuckyIA"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.keygen",
-  "catagory" : "keygen",
-  "link" : "https://www.icloud.com/shortcuts/befead40449d4db380b541769fe34209",
+  "id" : "io.github.scottdwr.shortcuts.select.keykit",
+  "catagory" : "keykit",
+  "link" : "https://www.icloud.com/shortcuts/48ea1098f474470a8804bad9a4346736",
   "version" : "1.1",
-  "description" : "Generates AES-CBC-256 encryption keys",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keygen.html",
-  "name" : "KeyGen",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/keygen.jpeg"
+  "description" : "Securely encode anything with an AES cipher.",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keykit.html",
+  "name" : "KeyKit",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/keykit.jpeg"
 }]
