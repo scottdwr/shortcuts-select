@@ -257,4 +257,25 @@
   },
   "name" : "AdGuard DNS Profiles",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns-profiles.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.",
+  "description" : "Configuration for Listen Launcher - a voice-controlled, natural language chatbot",
+  "version" : "0.7.1",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@veredictum",
+    "link" : "https://routinehub.co/user/veredictum"
+  },
+  "link" : "https://www.icloud.com/shortcuts/18529db826344580b74225977534aee4",
+  "catagory" : "productivity",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/.png",
+  "arch" : "ios13",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/.html"
 }]
