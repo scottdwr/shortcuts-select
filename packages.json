@@ -82,4 +82,18 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/mobile-webapp-configurator.html",
   "name" : "Mobile WebAPP Configurator",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/mobile-webapp-configurator.jpeg"
+},{
+  "author" : {
+    "name" : "@jsmglx",
+    "link" : "https://routinehub.co/user/jsmglx"
+  },
+  "arch" : "ios14",
+  "id" : "io.github.scottdwr.shortcuts.select.adguard-dns---block-ads-and-trackers-system-wide",
+  "catagory" : "adguard-dns---block-ads-and-trackers-system-wide",
+  "link" : "https://www.icloud.com/shortcuts/6badc92d084344fc868f3907f7c20800",
+  "version" : "1.02",
+  "description" : "Install the new AdGuard DNS profiles on your devices and say bye to ads and trackers",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns---block-ads-and-trackers-system-wide.html",
+  "name" : "AdGuard DNS - Block ads and trackers system wide",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns---block-ads-and-trackers-system-wide.jpeg"
 }]
