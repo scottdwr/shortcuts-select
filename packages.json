@@ -126,16 +126,16 @@
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.jpeg"
 },{
   "author" : {
-    "name" : "@StealthGuide",
-    "link" : "https://routinehub.co/user/StealthGuide"
+    "name" : "@gluebyte",
+    "link" : "https://routinehub.co/user/gluebyte"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.deck-of-cards",
-  "catagory" : "deck-of-cards",
-  "link" : "https://www.icloud.com/shortcuts/1f327c11b33b44c2afabeb57d4060dc6",
-  "version" : "1.1",
-  "description" : "Utility that returns a shuffled deck of cards.",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/deck-of-cards.html",
-  "name" : "Deck of Cards",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/deck-of-cards.jpeg"
+  "id" : "io.github.scottdwr.shortcuts.select.list-and-dictionary-helper",
+  "catagory" : "list-and-dictionary-helper",
+  "link" : "https://www.icloud.com/shortcuts/04017a4c026e414c90d91d89444563d2",
+  "version" : "2.0",
+  "description" : "Add, replace, remove list or dictionary values",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/list-and-dictionary-helper.html",
+  "name" : "List and Dictionary Helper",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/list-and-dictionary-helper.jpeg"
 }]
