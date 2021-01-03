@@ -28,6 +28,20 @@
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/screenkit.jpeg"
 },{
   "author" : {
+    "name" : "@ROP",
+    "link" : "https://routinehub.co/user/ROP"
+  },
+  "arch" : "ios14",
+  "id" : "io.github.scottdwr.shortcuts.select.mergecuts",
+  "catagory" : "development-tools",
+  "link" : "https://www.icloud.com/shortcuts/dee392af07a742c9965d06d31ed5dd7f",
+  "version" : "1.2.1",
+  "description" : "Merge several shortcuts into one and transfer actions from your shortcuts into other shortcuts",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/mergecuts.html",
+  "name" : "MergeCuts",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/mergecuts.jpeg"
+},{
+  "author" : {
     "name" : "@MMP0",
     "link" : "https://routinehub.co/user/MMP0"
   },
@@ -54,3 +68,4 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html",
   "name" : "1Backup",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
+}]
