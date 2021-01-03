@@ -258,27 +258,6 @@
   "name" : "AdGuard DNS Profiles",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns-profiles.html"
 },{
-  "id" : "io.github.scottdwr.shortcuts.select.",
-  "description" : "Configuration for Listen Launcher - a voice-controlled, natural language chatbot",
-  "version" : "0.7.1",
-  "depends" : [
-
-  ],
-  "author" : {
-    "name" : "@veredictum",
-    "link" : "https://routinehub.co/user/veredictum"
-  },
-  "link" : "https://www.icloud.com/shortcuts/18529db826344580b74225977534aee4",
-  "catagory" : "productivity",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/.png",
-  "arch" : "ios13",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https:://scottdwr.github.io"
-  },
-  "name" : "",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/.html"
-},{
   "id" : "io.github.scottdwr.shortcuts.select.listen",
   "description" : "Listen Launcher - a voice-controlled, natural language chatbot that launches shortcuts",
   "version" : "0.8.0",
@@ -299,4 +278,25 @@
   },
   "name" : "Listen",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/listen.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.",
+  "description" : "Today list, weather, todays events, reminders, news all in one list",
+  "version" : "1.4",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@entee",
+    "link" : "https://routinehub.co/user/entee"
+  },
+  "link" : "https://www.icloud.com/shortcuts/1cd336903f7c4773b58d62544a025250",
+  "catagory" : "business",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/.html"
 }]
