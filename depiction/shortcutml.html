@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html dir="auto">
+<html lang="en">
+  <head>
+    <title>ShortcutML</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      @charset "utf-8"; 
+      html { 
+        font-size:100%;
+        font-family: Helvetica, Arial, Freesans, clean, sans-serif;
+      }     
+      body {
+         margin:0;
+         padding:1em;
+      }
+      @media (max-device-width: 480px) { 
+      } 
+      @media (min-device-width: 481px) { 
+         body {
+           margin:auto;
+           max-width:600px;
+         } 
+      }
+      img {
+         max-width: 90%;
+      }
+    </style>
+  </head>
+  <body>
+     <p>
+      <div>
+       <h2><a href="https://routinehub.co/shortcut/3246/">ShortcutML</a></h2>
+<h3>Machine learning library for shortcuts.</h3>
+<p><em>Author: <a href="https://routinehub.co/user/Create"> <strong>@Create</strong> </a></em></p>
+<p>Development Tools</p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p><img src="https://magaimg.net/img/8kmv.png" alt="Machine learning for Siri." /></p>
+<p><img src="https://magaimg.net/img/8kdr.png" alt="Part of the Intelligent Tools Collection" /></p>
+<h3>Features:</h3>
+<ul>
+<li>Image Classifier</li>
+<li>Multi-Layer Perceptron</li>
+<li>Hopfield Network</li>
+</ul>
+<h3>Planned:</h3>
+<ul>
+<li>Discreet Sequence Recall</li>
+<li>Genetic Algorithm</li>
+<li>KNN</li>
+<li>etc</li>
+</ul>
+<h2>Image Classifier</h2>
+<p>No training required but does require a manual tap interaction step to use. </p>
+<h5>Example Use</h5>
+<p><img src="https://magaimg.net/img/8kmb.png" alt="Download What am I looking at?" /></p>
+<h3>Classification</h3>
+<p>Classification is done by passing a dictionary containing a base64 encoded PNG Image. </p>
+<p>{<br />
+"Architecture": "Image Classifier",<br />
+"Image": "iVBORw0K..."<br />
+}</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><h2>Multi-Layer Perceptron</h2>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p><img src="https://magaimg.net/img/8kn5.png" alt="Example Library Usage App" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><h4>Training</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>Training the Perceptron is done by passing a dictionary describing the inputs, hidden layer, and outputs. </p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>Training data is a \n separated list of the form [inputs,...]=>[output]</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>{<br />
+"Name": "XOR",<br />
+"Architecture": "Perceptron",<br />
+"Inputs": 2,<br />
+"Hidden": [2],<br />
+"Outputs": 1,<br />
+"Training Data": "[0,1]=>[1]\n[1,0]=>[1]\n[1,1]=>[0]\n[0,0]=>[0]",<br />
+"Error": 0.0001,<br />
+"Iterations": 50000<br />
+}</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><h4>Inference</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>Inference is done by passing a dictionary with Inputs provided as [inputs,...]</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>{<br />
+"Name":"XOR",<br />
+"Architecture":"Perceptron",<br />
+"Inputs":"[0,0]"<br />
+}</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><h2>Hopfield Network</h2>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><h4>Training</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>Training the Hopfield network is done by passing a dictionary describing the inputs binary sequences and bit-length of the network.</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>{<br />
+"Name":"10-Bit Example",<br />
+"Architecture":"Hopfield",<br />
+"Bit Length":10,<br />
+"Training Data":[<br />
+"[0, 1, 0, 1, 0, 1, 0, 1, 0, 1]",<br />
+"[1, 1, 1, 1, 1, 0, 0, 0, 0, 0]"<br />
+]}</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><h4>Feeding</h4>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>Feeding the hopfield is done by passing a dictionary with Inputs provided as [input,...]</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>{<br />
+"Name":"10-Bit Example",<br />
+"Architecture":"Hopfield",<br />
+"Inputs":"[0,1,0,1,0,1,0,1,1,1]"<br />
+}</p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><h2>Dependency Badge</h2>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p><img src="https://magaimg.net/img/8kdh.png" alt="This shortcut depends on ShortcutML" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p><a href="https://routinehub.co/shortcut/3246"><img src="http://magaimg.net/img/8kdh.png" alt="This shortcut depends on ShortcutML" /></a></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><h2>Credits</h2>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr></tbody></table><p>Perceptron &amp; Hopfield Based on <a href="https://github.com/cazala/synaptic/blob/master/README.md">Synaptic</a></p>
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p>Image Classifier Based on <a href="https://github.com/ml5js/ml5-examples/blob/release/p5js/ImageClassification/ImageClassification/sketch.js">ml5.js</a></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p><img src="https://magaimg.net/img/8kc4.png" alt="This shortcut was compiled with Trail Blazer!" /><br />
+<img src="https://magaimg.net/img/8kmz.png" alt="This shortcut was built with Run Javascript" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table><p>Supports<br />
+<img src="https://d3w10.netlify.com/RHImages/Swing%20Badge%20Small.png" alt="This shortcut supports Swing Updater!" /></p>
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table>
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr></tbody></table>
+      </div>
+     </p>
+  </body>
+</html>
