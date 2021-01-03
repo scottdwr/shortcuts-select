@@ -110,4 +110,18 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html",
   "name" : "Simple Template 14",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.jpeg"
+},{
+  "author" : {
+    "name" : "@alombi",
+    "link" : "https://routinehub.co/user/alombi"
+  },
+  "arch" : "ios14",
+  "id" : "io.github.scottdwr.shortcuts.select.proton",
+  "catagory" : "proton",
+  "link" : "https://www.icloud.com/shortcuts/ba88459623f8417bb8cfa31c53ed0b64",
+  "version" : "1.01",
+  "description" : "A simple yet powerful syntax highlighter for multiple programming languages",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/proton.html",
+  "name" : "Proton",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/proton.jpeg"
 }]
