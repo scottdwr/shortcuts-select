@@ -61,7 +61,7 @@
   },
   "arch" : "ios14",
   "id" : "io.github.scottdwr.shortcuts.select.1backup",
-  "catagory" : "development-tools",
+  "catagory" : "1backup",
   "link" : "https://www.icloud.com/shortcuts/dd7ed00a5b7a410e80f1a54ccd2f69b4",
   "version" : "1.5",
   "description" : "1Shortcut to backup them all. 1Backup to keep you safe.",
