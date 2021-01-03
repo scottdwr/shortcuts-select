@@ -152,4 +152,18 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/dictionary-action-builder.html",
   "name" : "Dictionary Action Builder",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/dictionary-action-builder.jpeg"
+},{
+  "author" : {
+    "name" : "@JimSauer",
+    "link" : "https://routinehub.co/user/JimSauer"
+  },
+  "arch" : "ios14",
+  "id" : "io.github.scottdwr.shortcuts.select.let’s-share-shortcut-techniques",
+  "catagory" : "let’s-share-shortcut-techniques",
+  "link" : "https://www.icloud.com/shortcuts/e06da74c113b4597b5f4dc20b3d71de2",
+  "version" : "3.6",
+  "description" : "built to share shortcut techniques with others creating shortcuts",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/let’s-share-shortcut-techniques.html",
+  "name" : "Let’s Share Shortcut Techniques",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/let’s-share-shortcut-techniques.jpeg"
 }]
