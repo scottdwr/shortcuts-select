@@ -320,4 +320,25 @@
   },
   "name" : "Today List",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/today-list.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.read-this-to-me!",
+  "description" : "Reads any text to you so you can do other things.",
+  "version" : "2.10.1",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@Mbierman",
+    "link" : "https://routinehub.co/user/Mbierman"
+  },
+  "link" : "https://www.icloud.com/shortcuts/51b6fb8c521a4985a2471a3fece1fa27",
+  "catagory" : "productivity",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/read-this-to-me!.png",
+  "arch" : "ios13",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Read this to me!",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/read-this-to-me!.html"
 }]
