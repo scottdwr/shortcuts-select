@@ -279,9 +279,9 @@
   "name" : "",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/.html"
 },{
-  "id" : "io.github.scottdwr.shortcuts.select.listen-launcher-admin",
-  "description" : "Configuration for Listen Launcher - a voice-controlled, natural language chatbot",
-  "version" : "0.7.1",
+  "id" : "io.github.scottdwr.shortcuts.select.listen",
+  "description" : "Listen Launcher - a voice-controlled, natural language chatbot that launches shortcuts",
+  "version" : "0.8.0",
   "depends" : [
 
   ],
@@ -289,14 +289,14 @@
     "name" : "@veredictum",
     "link" : "https://routinehub.co/user/veredictum"
   },
-  "link" : "https://www.icloud.com/shortcuts/18529db826344580b74225977534aee4",
+  "link" : "https://www.icloud.com/shortcuts/3938450670da4d9786f6346ea62156ad",
   "catagory" : "productivity",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/listen-launcher-admin.png",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/listen.png",
   "arch" : "ios13",
   "maintainer" : {
     "name" : "@scottdwr",
     "link" : "https:://scottdwr.github.io"
   },
-  "name" : "Listen Launcher Admin",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/listen-launcher-admin.html"
+  "name" : "Listen",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/listen.html"
 }]
