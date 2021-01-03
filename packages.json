@@ -124,4 +124,18 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.html",
   "name" : "CopyPaste Actions",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.jpeg"
+},{
+  "author" : {
+    "name" : "@StealthGuide",
+    "link" : "https://routinehub.co/user/StealthGuide"
+  },
+  "arch" : "ios14",
+  "id" : "io.github.scottdwr.shortcuts.select.deck-of-cards",
+  "catagory" : "deck-of-cards",
+  "link" : "https://www.icloud.com/shortcuts/1f327c11b33b44c2afabeb57d4060dc6",
+  "version" : "1.1",
+  "description" : "Utility that returns a shuffled deck of cards.",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/deck-of-cards.html",
+  "name" : "Deck of Cards",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/deck-of-cards.jpeg"
 }]
