@@ -96,4 +96,18 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns---block-ads-and-trackers-system-wide.html",
   "name" : "AdGuard DNS - Block ads and trackers system wide",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/adguard-dns---block-ads-and-trackers-system-wide.jpeg"
+},{
+  "author" : {
+    "name" : "@scottdwr",
+    "link" : "https://routinehub.co/user/scottdwr"
+  },
+  "arch" : "ios14",
+  "id" : "io.github.scottdwr.shortcuts.select.simple-template-14",
+  "catagory" : "simple-template-14",
+  "link" : "https://www.icloud.com/shortcuts/d3d598f93a8a47349e15933b1715d00d",
+  "version" : "1.5",
+  "description" : "Fast, clean Shortcut template with image list menus",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html",
+  "name" : "Simple Template 14",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.jpeg"
 }]
