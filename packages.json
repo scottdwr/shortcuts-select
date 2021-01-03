@@ -74,12 +74,12 @@
     "link" : "https://routinehub.co/user/scottdwr"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.simple-template-14",
-  "catagory" : "simple-template-14",
-  "link" : "https://www.icloud.com/shortcuts/d3d598f93a8a47349e15933b1715d00d",
-  "version" : "1.5",
-  "description" : "Fast, clean Shortcut template with image list menus",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html",
-  "name" : "Simple Template 14",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.jpeg"
+  "id" : "io.github.scottdwr.shortcuts.select.mobile-webapp-configurator",
+  "catagory" : "mobile-webapp-configurator",
+  "link" : "https://www.icloud.com/shortcuts/c130744c4f5649ba92f93687dffe5a18",
+  "version" : "2.7",
+  "description" : "Turn any website into an app on your homescreen. (JavaScript courtesy of @atnbueno)",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/mobile-webapp-configurator.html",
+  "name" : "Mobile WebAPP Configurator",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/mobile-webapp-configurator.jpeg"
 }]
