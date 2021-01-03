@@ -112,16 +112,16 @@
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.jpeg"
 },{
   "author" : {
-    "name" : "@alombi",
-    "link" : "https://routinehub.co/user/alombi"
+    "name" : "@schl3ck",
+    "link" : "https://routinehub.co/user/schl3ck"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.proton",
-  "catagory" : "proton",
-  "link" : "https://www.icloud.com/shortcuts/ba88459623f8417bb8cfa31c53ed0b64",
-  "version" : "1.01",
-  "description" : "A simple yet powerful syntax highlighter for multiple programming languages",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/proton.html",
-  "name" : "Proton",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/proton.jpeg"
+  "id" : "io.github.scottdwr.shortcuts.select.copypaste-actions",
+  "catagory" : "copypaste-actions",
+  "link" : "https://www.icloud.com/shortcuts/e6f5bb59d1354adfa338196ea962eada",
+  "version" : "2.1.1",
+  "description" : "Copy, paste and save any number of actions",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.html",
+  "name" : "CopyPaste Actions",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.jpeg"
 }]
