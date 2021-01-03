@@ -299,4 +299,25 @@
   },
   "name" : "",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.today-list",
+  "description" : "Today list, weather, todays events, reminders, news all in one list",
+  "version" : "1.4",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@entee",
+    "link" : "https://routinehub.co/user/entee"
+  },
+  "link" : "https://www.icloud.com/shortcuts/1cd336903f7c4773b58d62544a025250",
+  "catagory" : "business",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/today-list.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Today List",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/today-list.html"
 }]
