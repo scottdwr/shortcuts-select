@@ -220,9 +220,9 @@
     "link" : "https://routinehub.co/user/ROP"
   },
   "link" : "https://www.icloud.com/shortcuts/71b68e227f59461f83d5b85fe6794d05",
-  "catagory" : "Development Tools",
+  "catagory" : "development-tools",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/ios-switches.png",
-  "arch" : "",
+  "arch" : "ios14",
   "maintainer" : {
     "name" : "@scottdwr",
     "link" : "https:://scottdwr.github.io"
