@@ -14,18 +14,18 @@
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts.jpeg"
 },{
   "author" : {
-    "name" : "@scottdwr",
-    "link" : "https://routinehub.co/user/scottdwr"
+    "name" : "@ROP",
+    "link" : "https://routinehub.co/user/ROP"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.simple-template-14",
-  "catagory" : "simple-template-14",
-  "link" : "https://www.icloud.com/shortcuts/d3d598f93a8a47349e15933b1715d00d",
+  "id" : "io.github.scottdwr.shortcuts.select.1backup",
+  "catagory" : "development-tools",
+  "link" : "https://www.icloud.com/shortcuts/dd7ed00a5b7a410e80f1a54ccd2f69b4",
   "version" : "1.5",
-  "description" : "Fast, clean Shortcut template with image list menus",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html",
-  "name" : "Simple Template 14",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.jpeg"
+  "description" : "1Shortcut to backup them all. 1Backup to keep you safe.",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html",
+  "name" : "1Backup",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
 },{
   "author" : {
     "name" : "@schl3ck",
@@ -349,24 +349,24 @@
   "name" : "Listen Launcher Admin",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/listen-launcher-admin.html"
 },{
-  "id" : "io.github.scottdwr.shortcuts.select.1backup",
-  "description" : "1Shortcut to backup them all. 1Backup to keep you safe.",
+  "id" : "io.github.scottdwr.shortcuts.select.simple-template-14",
+  "description" : "Fast, clean Shortcut template with image list menus",
   "version" : "1.5",
   "depends" : [
 
   ],
   "author" : {
-    "name" : "@ROP",
-    "link" : "https://routinehub.co/user/ROP"
+    "name" : "@scottdwr",
+    "link" : "https://routinehub.co/user/scottdwr"
   },
-  "link" : "https://www.icloud.com/shortcuts/dd7ed00a5b7a410e80f1a54ccd2f69b4",
+  "link" : "https://www.icloud.com/shortcuts/d3d598f93a8a47349e15933b1715d00d",
   "catagory" : "development-tools",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.png",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.png",
   "arch" : "ios14",
   "maintainer" : {
     "name" : "@scottdwr",
     "link" : "https:://scottdwr.github.io"
   },
-  "name" : "1Backup",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html"
+  "name" : "Simple Template 14",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html"
 }]
