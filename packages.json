@@ -14,20 +14,6 @@
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts.jpeg"
 },{
   "author" : {
-    "name" : "@ROP",
-    "link" : "https://routinehub.co/user/ROP"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.1backup",
-  "catagory" : "development-tools",
-  "link" : "https://www.icloud.com/shortcuts/dd7ed00a5b7a410e80f1a54ccd2f69b4",
-  "version" : "1.5",
-  "description" : "1Shortcut to backup them all. 1Backup to keep you safe.",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html",
-  "name" : "1Backup",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
-},{
-  "author" : {
     "name" : "@scottdwr",
     "link" : "https://routinehub.co/user/scottdwr"
   },
@@ -362,4 +348,25 @@
   },
   "name" : "Listen Launcher Admin",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/listen-launcher-admin.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.1backup",
+  "description" : "1Shortcut to backup them all. 1Backup to keep you safe.",
+  "version" : "1.5",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@ROP",
+    "link" : "https://routinehub.co/user/ROP"
+  },
+  "link" : "https://www.icloud.com/shortcuts/dd7ed00a5b7a410e80f1a54ccd2f69b4",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "1Backup",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html"
 }]
