@@ -502,4 +502,25 @@
   },
   "name" : "CAH Generate Response Card",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/cah-generate-response-card.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.proton",
+  "description" : "A simple yet powerful syntax highlighter for multiple programming languages",
+  "version" : "1.01",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@alombi",
+    "link" : "https://routinehub.co/user/alombi"
+  },
+  "link" : "https://www.icloud.com/shortcuts/ba88459623f8417bb8cfa31c53ed0b64",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/proton.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Proton",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/proton.html"
 }]
