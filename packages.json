@@ -21,20 +21,6 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
 },{
   "author" : {
-    "name" : "@gluebyte",
-    "link" : "https://routinehub.co/user/gluebyte"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.dictionary-action-builder",
-  "catagory" : "dictionary-action-builder",
-  "link" : "https://www.icloud.com/shortcuts/eb3930ee53a346c7991f9607881fe9e4",
-  "version" : "1.6",
-  "description" : "Text to Dictionary Conversion Tool for Shortcut Development",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/dictionary-action-builder.html",
-  "name" : "Dictionary Action Builder",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/dictionary-action-builder.jpeg"
-},{
-  "author" : {
     "name" : "@JimSauer",
     "link" : "https://routinehub.co/user/JimSauer"
   },
@@ -397,4 +383,25 @@
   },
   "name" : "List and Dictionary Helper",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/list-and-dictionary-helper.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.dictionary-action-builder",
+  "description" : "Text to Dictionary Conversion Tool for Shortcut Development",
+  "version" : "1.6",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@gluebyte",
+    "link" : "https://routinehub.co/user/gluebyte"
+  },
+  "link" : "https://www.icloud.com/shortcuts/eb3930ee53a346c7991f9607881fe9e4",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/dictionary-action-builder.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Dictionary Action Builder",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/dictionary-action-builder.html"
 }]
