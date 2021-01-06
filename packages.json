@@ -481,4 +481,25 @@
   },
   "name" : "Deal Card Hand ♥️♠️♦️♣️",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/deal-card-hand-♥️♠️♦️♣️.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.cah-generate-prompt-card",
+  "description" : "For playing cards against humanity over whatsapp/iMessage",
+  "version" : "1.2",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@entee",
+    "link" : "https://routinehub.co/user/entee"
+  },
+  "link" : "https://www.icloud.com/shortcuts/5caa6b9b5f88439fb79125d0b045c5a7",
+  "catagory" : "games",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/cah-generate-prompt-card.png",
+  "arch" : "ios13",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "CAH Generate Prompt Card",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/cah-generate-prompt-card.html"
 }]
