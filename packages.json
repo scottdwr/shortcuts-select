@@ -1,24 +1,24 @@
 [{
+  "id" : "io.github.scottdwr.shortcuts.select",
+  "description" : "A curated selection of premium iOS Shortcuts",
+  "version" : "1.0",
+  "depends" : [
+
+  ],
   "author" : {
     "name" : "@scottdwr",
     "link" : "https://scottdwr.github.io"
   },
+  "catagory" : "utilites",
+  "link" : "https://scottdwr.github.io/papercuts/",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts-select.png",
   "arch" : "ios12",
   "maintainer" : {
     "name" : "@scottdwr",
     "link" : "https:://scottdwr.github.io"
   },
-  "id" : "io.github.scottdwr.shortcuts.select",
-  "catagory" : "utilites",
-  "link" : "https://scottdwr.github.io/papercuts/",
-  "version" : "1.0",
-  "depends" : [
-
-  ],
-  "description" : "A curated selection of premium iOS Shortcuts",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html",
   "name" : "Shortcuts[𝑆𝑒𝑙𝑒𝑐𝑡]",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts-select.png"
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
 },{
   "author" : {
     "name" : "@ROP",
@@ -33,20 +33,6 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html",
   "name" : "1Backup",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
-},{
-  "author" : {
-    "name" : "@schl3ck",
-    "link" : "https://routinehub.co/user/schl3ck"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.copypaste-actions",
-  "catagory" : "copypaste-actions",
-  "link" : "https://www.icloud.com/shortcuts/e6f5bb59d1354adfa338196ea962eada",
-  "version" : "2.1.1",
-  "description" : "Copy, paste and save any number of actions",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.html",
-  "name" : "CopyPaste Actions",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.jpeg"
 },{
   "author" : {
     "name" : "@gluebyte",
@@ -376,4 +362,25 @@
   },
   "name" : "Simple Template 14",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.copypaste-actions",
+  "description" : "Copy, paste and save any number of actions",
+  "version" : "2.1.1",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@schl3ck",
+    "link" : "https://routinehub.co/user/schl3ck"
+  },
+  "link" : "https://www.icloud.com/shortcuts/e6f5bb59d1354adfa338196ea962eada",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "CopyPaste Actions",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.html"
 }]
