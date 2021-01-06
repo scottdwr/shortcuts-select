@@ -21,20 +21,6 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
 },{
   "author" : {
-    "name" : "@Create",
-    "link" : "https://routinehub.co/user/Create"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.shortcutml",
-  "catagory" : "shortcutml",
-  "link" : "https://www.icloud.com/shortcuts/5f042ed6f6d54a75a6e30172e3cdb438",
-  "version" : "1.0.11",
-  "description" : "Machine learning library for shortcuts.",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcutml.html",
-  "name" : "ShortcutML",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcutml.jpeg"
-},{
-  "author" : {
     "name" : "@TuckyIA",
     "link" : "https://routinehub.co/user/TuckyIA"
   },
@@ -418,4 +404,25 @@
   },
   "name" : "iCloud MailDrop Link",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-maildrop-link.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.shortcutml",
+  "description" : "Machine learning library for shortcuts.",
+  "version" : "1.0.11",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@Create",
+    "link" : "https://routinehub.co/user/Create"
+  },
+  "link" : "https://www.icloud.com/shortcuts/5f042ed6f6d54a75a6e30172e3cdb438",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcutml.png",
+  "arch" : "ios12",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "ShortcutML",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcutml.html"
 }]
