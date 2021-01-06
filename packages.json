@@ -439,4 +439,25 @@
   },
   "name" : "KeyGen",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keygen.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.",
+  "description" : "Deal a hand of cards with images",
+  "version" : "0.2",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@robric18",
+    "link" : "https://routinehub.co/user/robric18"
+  },
+  "link" : "https://www.icloud.com/shortcuts/3f36416b10694430b169624f1b77f87d",
+  "catagory" : "games",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/.png",
+  "arch" : "ios13",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/.html"
 }]
