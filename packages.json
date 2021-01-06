@@ -523,4 +523,25 @@
   },
   "name" : "Proton",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/proton.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.icon-themer",
+  "description" : "Create custom home screen icons that launch your apps directly",
+  "version" : "0.9.2",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@nyuszika7h",
+    "link" : "https://routinehub.co/user/nyuszika7h"
+  },
+  "link" : "https://www.icloud.com/shortcuts/31f6ab02bb4a423181842062805f0e5b",
+  "catagory" : "graphics-design",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/icon-themer.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Icon Themer",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icon-themer.html"
 }]
