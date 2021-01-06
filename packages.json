@@ -1,24 +1,8 @@
 [{
-  "id" : "io.github.scottdwr.shortcuts.select",
-  "description" : "A curated selection of premium iOS Shortcuts",
-  "version" : "1.0",
-  "depends" : [
-
-  ],
   "author" : {
     "name" : "@scottdwr",
     "link" : "https://scottdwr.github.io"
   },
-  "catagory" : "utilites",
-  "link" : "https://scottdwr.github.io/papercuts/",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts-select.png",
-  "arch" : "ios12",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https:://scottdwr.github.io"
-  },
-  "name" : "Shortcuts[𝑆𝑒𝑙𝑒𝑐𝑡]",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
   "arch" : "ios12",
   "maintainer" : {
     "name" : "@scottdwr",
@@ -51,18 +35,18 @@
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
 },{
   "author" : {
-    "name" : "@ROP",
-    "link" : "https://routinehub.co/user/ROP"
+    "name" : "@schl3ck",
+    "link" : "https://routinehub.co/user/schl3ck"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.1backup",
-  "catagory" : "development-tools",
-  "link" : "https://www.icloud.com/shortcuts/dd7ed00a5b7a410e80f1a54ccd2f69b4",
-  "version" : "1.5",
-  "description" : "1Shortcut to backup them all. 1Backup to keep you safe.",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html",
-  "name" : "1Backup",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
+  "id" : "io.github.scottdwr.shortcuts.select.copypaste-actions",
+  "catagory" : "copypaste-actions",
+  "link" : "https://www.icloud.com/shortcuts/e6f5bb59d1354adfa338196ea962eada",
+  "version" : "2.1.1",
+  "description" : "Copy, paste and save any number of actions",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.html",
+  "name" : "CopyPaste Actions",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/copypaste-actions.jpeg"
 },{
   "author" : {
     "name" : "@gluebyte",
