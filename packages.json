@@ -21,20 +21,6 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
 },{
   "author" : {
-    "name" : "@ROP",
-    "link" : "https://routinehub.co/user/ROP"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.icloud-maildrop-link",
-  "catagory" : "icloud-maildrop-link",
-  "link" : "https://www.icloud.com/shortcuts/82257a9343f34afcb75df4fa687b5415",
-  "version" : "1.2",
-  "description" : "Generate anonymous direct links from your iCloud Drive files",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-maildrop-link.html",
-  "name" : "iCloud MailDrop Link",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-maildrop-link.jpeg"
-},{
-  "author" : {
     "name" : "@Create",
     "link" : "https://routinehub.co/user/Create"
   },
@@ -411,4 +397,25 @@
   },
   "name" : "Let’s Share Shortcut Techniques",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/let’s-share-shortcut-techniques.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.icloud-maildrop-link",
+  "description" : "Generate anonymous direct links from your iCloud Drive files",
+  "version" : "1.2",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@ROP",
+    "link" : "https://routinehub.co/user/ROP"
+  },
+  "link" : "https://www.icloud.com/shortcuts/82257a9343f34afcb75df4fa687b5415",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-maildrop-link.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "iCloud MailDrop Link",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-maildrop-link.html"
 }]
