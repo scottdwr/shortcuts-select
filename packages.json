@@ -25,20 +25,6 @@
     "link" : "https://routinehub.co/user/TuckyIA"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.keykit",
-  "catagory" : "development-tools",
-  "link" : "https://www.icloud.com/shortcuts/48ea1098f474470a8804bad9a4346736",
-  "version" : "1.1",
-  "description" : "Securely encode anything with an AES cipher.",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keykit.html",
-  "name" : "KeyKit",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/keykit.jpeg"
-},{
-  "author" : {
-    "name" : "@TuckyIA",
-    "link" : "https://routinehub.co/user/TuckyIA"
-  },
-  "arch" : "ios14",
   "id" : "io.github.scottdwr.shortcuts.select.keygen",
   "catagory" : "development-tools",
   "link" : "https://www.icloud.com/shortcuts/befead40449d4db380b541769fe34209",
@@ -425,4 +411,25 @@
   },
   "name" : "ShortcutML",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcutml.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.keykit",
+  "description" : "Securely encode anything with an AES cipher.",
+  "version" : "1.1",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@TuckyIA",
+    "link" : "https://routinehub.co/user/TuckyIA"
+  },
+  "link" : "https://www.icloud.com/shortcuts/48ea1098f474470a8804bad9a4346736",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/keykit.png",
+  "arch" : "ios12",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "KeyKit",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keykit.html"
 }]
