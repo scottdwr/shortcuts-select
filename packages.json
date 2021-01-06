@@ -20,20 +20,6 @@
   "name" : "Shortcuts[𝑆𝑒𝑙𝑒𝑐𝑡]",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
 },{
-  "author" : {
-    "name" : "@TuckyIA",
-    "link" : "https://routinehub.co/user/TuckyIA"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.keygen",
-  "catagory" : "development-tools",
-  "link" : "https://www.icloud.com/shortcuts/befead40449d4db380b541769fe34209",
-  "version" : "1.1",
-  "description" : "Generates AES-CBC-256 encryption keys",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keygen.html",
-  "name" : "KeyGen",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/keygen.jpeg"
-},{
   "id" : "io.github.scottdwr.shortcuts.select.ios-switches",
   "description" : "A collection of over 170 iOS switches for use in vCard menus.",
   "version" : "1.3",
@@ -432,4 +418,25 @@
   },
   "name" : "KeyKit",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keykit.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.keygen",
+  "description" : "Generates AES-CBC-256 encryption keys",
+  "version" : "1.1",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@TuckyIA",
+    "link" : "https://routinehub.co/user/TuckyIA"
+  },
+  "link" : "https://www.icloud.com/shortcuts/befead40449d4db380b541769fe34209",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/keygen.png",
+  "arch" : "ios12",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "KeyGen",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/keygen.html"
 }]
