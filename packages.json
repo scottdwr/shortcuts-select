@@ -1,17 +1,24 @@
 [{
+  "id" : "io.github.scottdwr.shortcuts.select",
+  "description" : "A curated selection of premium iOS Shortcuts",
+  "version" : "1.0",
+  "depends" : [
+
+  ],
   "author" : {
     "name" : "@scottdwr",
     "link" : "https://scottdwr.github.io"
   },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select",
   "catagory" : "utilites",
   "link" : "https://scottdwr.github.io/papercuts/",
-  "version" : "1.0",
-  "description" : "A curated selection of premium iOS Shortcuts",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html",
-  "name" : "Shortcuts[𝑆𝑒𝑙𝑒𝑐𝑡]    ",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts.jpeg"
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcuts-select.png",
+  "arch" : "ios12",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Shortcuts[𝑆𝑒𝑙𝑒𝑐𝑡]",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
 },{
   "author" : {
     "name" : "@ROP",
@@ -26,20 +33,6 @@
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html",
   "name" : "1Backup",
   "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
-},{
-  "author" : {
-    "name" : "@scottdwr",
-    "link" : "https://routinehub.co/user/scottdwr"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.simple-template-14",
-  "catagory" : "simple-template-14",
-  "link" : "https://www.icloud.com/shortcuts/d3d598f93a8a47349e15933b1715d00d",
-  "version" : "1.5",
-  "description" : "Fast, clean Shortcut template with image list menus",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html",
-  "name" : "Simple Template 14",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.jpeg"
 },{
   "author" : {
     "name" : "@gluebyte",
@@ -348,6 +341,27 @@
   },
   "name" : "Listen Launcher Admin",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/listen-launcher-admin.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.simple-template-14",
+  "description" : "Fast, clean Shortcut template with image list menus",
+  "version" : "1.5",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@scottdwr",
+    "link" : "https://routinehub.co/user/scottdwr"
+  },
+  "link" : "https://www.icloud.com/shortcuts/d3d598f93a8a47349e15933b1715d00d",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Simple Template 14",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/simple-template-14.html"
 },{
   "id" : "io.github.scottdwr.shortcuts.select.copypaste-actions",
   "description" : "Copy, paste and save any number of actions",
