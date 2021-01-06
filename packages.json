@@ -25,20 +25,6 @@
     "link" : "https://routinehub.co/user/gluebyte"
   },
   "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.list-and-dictionary-helper",
-  "catagory" : "list-and-dictionary-helper",
-  "link" : "https://www.icloud.com/shortcuts/04017a4c026e414c90d91d89444563d2",
-  "version" : "2.0",
-  "description" : "Add, replace, remove list or dictionary values",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/list-and-dictionary-helper.html",
-  "name" : "List and Dictionary Helper",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/list-and-dictionary-helper.jpeg"
-},{
-  "author" : {
-    "name" : "@gluebyte",
-    "link" : "https://routinehub.co/user/gluebyte"
-  },
-  "arch" : "ios14",
   "id" : "io.github.scottdwr.shortcuts.select.dictionary-action-builder",
   "catagory" : "dictionary-action-builder",
   "link" : "https://www.icloud.com/shortcuts/eb3930ee53a346c7991f9607881fe9e4",
@@ -390,4 +376,25 @@
   },
   "name" : "1Backup",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.list-and-dictionary-helper",
+  "description" : "Add, replace, remove list or dictionary values",
+  "version" : "2.0",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@gluebyte",
+    "link" : "https://routinehub.co/user/gluebyte"
+  },
+  "link" : "https://www.icloud.com/shortcuts/04017a4c026e414c90d91d89444563d2",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/list-and-dictionary-helper.png",
+  "arch" : "ios13",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "List and Dictionary Helper",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/list-and-dictionary-helper.html"
 }]
