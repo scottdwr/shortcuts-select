@@ -544,25 +544,4 @@
   },
   "name" : "Icon Themer",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icon-themer.html"
-},{
-  "id" : "io.github.scottdwr.shortcuts.select.icloud-shortcut-name",
-  "description" : "",
-  "version" : "",
-  "depends" : [
-
-  ],
-  "author" : {
-    "name" : "@",
-    "link" : "https://routinehub.co/user/"
-  },
-  "link" : "",
-  "catagory" : "",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-shortcut-name.png",
-  "arch" : "ios",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https:://scottdwr.github.io"
-  },
-  "name" : "iCloud Shortcut Name",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-shortcut-name.html"
 }]
