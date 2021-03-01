@@ -586,4 +586,25 @@
   },
   "name" : "Fancy Icon Maker",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-icon-maker.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.shortcut-source-tool",
+  "description" : "View, convert, save source in xml or json format, or edit and export source to Shortcuts",
+  "version" : "2.03",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@gluebyte",
+    "link" : "https://routinehub.co/user/gluebyte"
+  },
+  "link" : "https://www.icloud.com/shortcuts/b8eb23d07ea548f5957a32dee8d31427",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcut-source-tool.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Shortcut Source Tool",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcut-source-tool.html"
 }]
