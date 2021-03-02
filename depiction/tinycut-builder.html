@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html dir="auto">
+<html lang="en">
+  <head>
+    <title>Tinycut Builder</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      @charset "utf-8"; 
+      html { 
+        font-size:100%;
+        font-family: Helvetica, Arial, Freesans, clean, sans-serif;
+      }     
+      body {
+         margin:0;
+         padding:1em;
+      }
+      @media (max-device-width: 480px) { 
+      } 
+      @media (min-device-width: 481px) { 
+         body {
+           margin:auto;
+           max-width:600px;
+         } 
+      }
+      img {
+         max-width: 90%;
+      }
+    </style>
+  </head>
+  <body>
+     <p>
+      <div>
+       <h2><a href="https://routinehub.co/shortcut/5217/">Tinycut Builder</a></h2>
+<h3>Start creating shortcuts using any text editor</h3>
+<p><em>Author: <a href="https://routinehub.co/user/gluebyte"> <strong>@gluebyte</strong> </a></em></p>
+<p>Development Tools</p>
+
+<hr />
+<table><thead><tr></tr></thead><tbody><tr></tr></tbody></table><p><img src="https://66.media.tumblr.com/fafa8bc42e0a4df3a137bdc1ef146224/1bd126229e9597a8-17/s1280x1920/79e08e9be4e7ef3e0b4241666235796875ee8975.png" alt="" /></p>
+<p><em>Tinycut Builder</em> is a simple compiler that converts programming-style text into a shortcut, allowing you to start your project by typing even on your computer. It can be used for merging shortcuts or adding special commands as well.</p>
+<ul>
+<li>You can only specify actions, not variables or other parameters; you need to process them after conversion. This is intended to be used as an early action-planning tool.</li>
+<li>Magic variables will be automatically connected between adjacent actions if it makes sense, as shown in the picture above.</li>
+<li>It understands about 100, not all, commands. Any line that does not contain a command is converted to a comment action. Text after two slashes (<code>//</code>) on any line is also added as a comment.</li>
+<li>Commands are case-insensitive.</li>
+<li>For full command list, run the shortcut and select the <em>Show Commands</em> menu.</li>
+<li>It ignores indentation; you can put spaces/tabs however you like.</li>
+<li>To insert another shortcut from your shortcuts library, add line <code>&lt;&lt; my shortcut</code>. You can specify just a substring of the name. Useful for adding frequently-used snippets or merging multiple shortcuts.</li>
+<li>This can be used to quickly merge shortcuts. Enter a two-line command <code>&lt;&lt;a</code> and <code>&lt;&lt;b</code>, and it will create a new shortcut with shortcuts <em>a</em> and <em>b</em> merged.</li>
+<li>Please note that <em>automatic magic variable connection</em> does not work if there is any <code>&lt;&lt;</code> command in the input due to compatibility issues.</li>
+<li>It offers six special commands that you can add to your new or existing shortcuts:</li>
+<li><code>qlfs</code> – Quick Look Full Screen (iOS 13 or later)</li>
+<li><code>true</code> – Boolean true</li>
+<li><code>false</code> – Boolean false</li>
+<li><code>self</code> – Run Shortcut-self (iOS 14 or later)</li>
+<li><code>springboard</code> – Go to Home Screen</li>
+<li>The <em>Enter Code</em> menu lets you type in commands on the fly, handy for merging shortcuts or adding special commands quickly.</li>
+<li>Happy typing!</li>
+</ul>
+<p><img src="https://i.imgur.com/om4hpSU.png" alt="UpdateHub" /></p>
+
+<hr />
+
+      </div>
+     </p>
+  </body>
+</html>

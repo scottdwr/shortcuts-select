@@ -607,4 +607,25 @@
   },
   "name" : "Shortcut Source Tool",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/shortcut-source-tool.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.tinycut-builder",
+  "description" : "Start creating shortcuts using any text editor",
+  "version" : "1.61",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@gluebyte",
+    "link" : "https://routinehub.co/user/gluebyte"
+  },
+  "link" : "https://www.icloud.com/shortcuts/21a360fb23a7419cafa87d9cb4c6a31e",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/tinycut-builder.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Tinycut Builder",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/tinycut-builder.html"
 }]
