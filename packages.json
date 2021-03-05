@@ -601,27 +601,6 @@
   "name" : "Tinycut Builder",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/tinycut-builder.html"
 },{
-  "id" : "com.shortcutspro.ibrary.integrity-logger",
-  "description" : "Accepts Data Integrity formatted JSON payloads.",
-  "version" : "2.1",
-  "depends" : [
-
-  ],
-  "author" : {
-    "name" : "@scottdwr",
-    "link" : "https://scottdwr.github.io"
-  },
-  "link" : "shortcuts://shortcuts/2ed05107c43d4a1cb7b5539e9f054a3a",
-  "catagory" : "utilities",
-  "icon" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.png",
-  "arch" : "ios14",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https://scottdwr.github.io:"
-  },
-  "name" : "Integrity Logger",
-  "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.html"
-},{
   "id" : "com.shortcutspro.library.data-integrity-tool",
   "description" : "Monitors Integrity compatible Shortcuts for data integrity and quality control. ",
   "version" : "2.2",
@@ -642,4 +621,25 @@
   },
   "name" : "Data Integrity Tool",
   "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/data-integrity-tool.html"
+},{
+  "id" : "com.shortcutspro.ibrary.integrity-logger",
+  "description" : "Accepts Data Integrity formatted JSON payloads.",
+  "version" : "2.1",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@scottdwr",
+    "link" : "https://scottdwr.github.io"
+  },
+  "link" : "shortcuts://shortcuts/0a2b80ca86864c81bc948aa9752f7748",
+  "catagory" : "utilities",
+  "icon" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https://scottdwr.github.io:"
+  },
+  "name" : "Integrity Logger",
+  "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.html"
 }]
