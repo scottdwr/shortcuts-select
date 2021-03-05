@@ -1,5 +1,5 @@
 [{
-  "id" : "io.github.scottdwr.shortcuts.select",
+  "id" : "io.github.scottdwr.shortcuts-select",
   "description" : "A curated selection of premium iOS Shortcuts",
   "version" : "1.0",
   "depends" : [
