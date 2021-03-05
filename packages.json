@@ -594,17 +594,17 @@
 
   ],
   "author" : {
-    "name" : "@@scottdwr",
+    "name" : "@scottdwr",
     "link" : "https://scottdwr.github.io"
   },
   "link" : "https://www.icloud.com/shortcuts/7493d3607b6c42ce88cbec2efb1ca7da",
   "catagory" : "utilities",
-  "icon" : "https://scottdwr.github.io/shortcuts-select//depiction/integrity-logger.png",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/integrity-logger.png",
   "arch" : "ios14",
   "maintainer" : {
     "name" : "@scottdwr",
     "link" : "https:://scottdwr.github.io"
   },
   "name" : "Integrity Logger",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select//depiction/integrity-logger.html"
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/integrity-logger.html"
 }]
