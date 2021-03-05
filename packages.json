@@ -586,4 +586,37 @@
   },
   "name" : "Tinycut Builder",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/tinycut-builder.html"
+},{
+  "depends" : [
+
+  ],
+  "application" : "𝐒𝐡𝐨𝐫𝐭𝐜𝐮𝐭𝐬𝑃𝑅𝑂",
+  "author" : {
+    "name" : "@scottdwr",
+    "link" : "https://scottdwr.github.io"
+  },
+  "integrityVersion" : 1,
+  "link" : "https://www.icloud.com/shortcuts/f9c6867ef62040d9a4423d2e7e0bdc52",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select//depiction/integrity-logger.html",
+  "integrity" : false,
+  "icon" : "https://scottdwr.github.io/shortcuts-select//depiction/integrity-logger.png",
+  "category" : "utilities",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "version" : "2.1",
+  "name" : "Integrity Logger",
+  "settings" : {
+
+  },
+  "id" : "com.shortcutspro.ibrary.integrity-logger",
+  "arch" : "ios14",
+  "build" : "51e6e672-500a-4515-b663-ac31d1fab6c8",
+  "urls" : {
+    "Help" : "https://www.simplsystems.com"
+  },
+  "license" : "MIT License  Integrity Framework Copyright © 2021 Scott Wright  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+  "serverid" : "Scott—4c6a2a3c-eded-4f82-be0f-3ce56ac810b9",
+  "description" : "Accepts Data Integrity formatted JSON payloads."
 }]
