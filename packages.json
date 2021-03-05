@@ -621,4 +621,25 @@
   },
   "name" : "Integrity Logger",
   "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.html"
+},{
+  "id" : "com.shortcutspro.library.data-integrity-tool",
+  "description" : "Monitors Integrity compatible Shortcuts for data integrity and quality control. ",
+  "version" : "2.2",
+  "depends" : [
+    "com.shortcutspro.library.integrity-logger"
+  ],
+  "author" : {
+    "name" : "@scottdwr",
+    "link" : "https://scottdwr.github.io"
+  },
+  "link" : "shortcuts://shortcuts/d37923b44b6f455e95c9cadaa278bd40",
+  "catagory" : "utilities",
+  "icon" : "https://github.com/scottdwr/shortcuts-select/depiction/data-integrity-tool.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https://scottdwr.github.io:"
+  },
+  "name" : "Data Integrity Tool",
+  "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/data-integrity-tool.html"
 }]
