@@ -642,4 +642,25 @@
   },
   "name" : "Integrity Logger",
   "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.html"
+},{
+  "id" : "io.github.scottdwr.library.dynamic-wallpaper",
+  "description" : "Change your scene!  Fresh wallpaper matches the beautiful outdoors as your day goes by. ",
+  "version" : "3",
+  "depends" : [
+    "com.shortcutspro.integrity.data-integrity-tool"
+  ],
+  "author" : {
+    "name" : "@scottdwr",
+    "link" : "https://routinehub.co/user/scottdwr"
+  },
+  "link" : "shortcuts://shortcuts/b1056497480948d1b2ad78b72980eb4f",
+  "catagory" : "lifestyle",
+  "icon" : "https://github.com/scottdwr/shortcuts-select/depiction/dynamic-wallpaper.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https://scottdwr.github.io:"
+  },
+  "name" : "𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑾𝒂𝒍𝒍𝒑𝒂𝒑𝒆𝒓",
+  "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/dynamic-wallpaper.html"
 }]
