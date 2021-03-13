@@ -1,5 +1,5 @@
 [{
-  "id" : "io.github.scottdwr.shortcuts-select",
+  "id" : "io.github.scottdwr.shortcuts.select",
   "description" : "A curated selection of premium iOS Shortcuts",
   "version" : "1.0",
   "depends" : [
@@ -19,20 +19,6 @@
   },
   "name" : "Shortcuts[𝑆𝑒𝑙𝑒𝑐𝑡]",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/about.html"
-},{
-  "author" : {
-    "name" : "@ROP",
-    "link" : "https://routinehub.co/user/ROP"
-  },
-  "arch" : "ios14",
-  "id" : "io.github.scottdwr.shortcuts.select.1backup",
-  "catagory" : "development-tools",
-  "link" : "https://www.icloud.com/shortcuts/dd7ed00a5b7a410e80f1a54ccd2f69b4",
-  "version" : "1.5",
-  "description" : "1Shortcut to backup them all. 1Backup to keep you safe.",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.html",
-  "name" : "1Backup",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/1backup.jpeg"
 },{
   "id" : "io.github.scottdwr.shortcuts.select.ios-switches",
   "description" : "A collection of over 170 iOS switches for use in vCard menus.",
@@ -559,6 +545,48 @@
   "name" : "Icon Themer",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icon-themer.html"
 },{
+  "id" : "io.github.scottdwr.shortcuts.select.icloud-shortcut-name",
+  "description" : "",
+  "version" : "",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@",
+    "link" : "https://routinehub.co/user/"
+  },
+  "link" : "",
+  "catagory" : "",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-shortcut-name.png",
+  "arch" : "ios",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "iCloud Shortcut Name",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-shortcut-name.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.fancy-icon-maker",
+  "description" : "Custom home screen icons without opening shortcuts. Add as many as icons as you want all at once.",
+  "version" : "0.3",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@robric18",
+    "link" : "https://routinehub.co/user/robric18"
+  },
+  "link" : "https://www.icloud.com/shortcuts/d74594a23453441aa4f567c4a3900272",
+  "catagory" : "graphics-design",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-icon-maker.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Fancy Icon Maker",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-icon-maker.html"
+},{
   "id" : "io.github.scottdwr.shortcuts.select.shortcut-source-tool",
   "description" : "View, convert, save source in xml or json format, or edit and export source to Shortcuts",
   "version" : "2.03",
@@ -601,66 +629,24 @@
   "name" : "Tinycut Builder",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/tinycut-builder.html"
 },{
-  "id" : "com.shortcutspro.library.data-integrity-tool",
-  "description" : "Monitors Integrity compatible Shortcuts for data integrity and quality control. ",
-  "version" : "2.2",
-  "depends" : [
-    "com.shortcutspro.library.integrity-logger"
-  ],
-  "author" : {
-    "name" : "@scottdwr",
-    "link" : "https://scottdwr.github.io"
-  },
-  "link" : "shortcuts://shortcuts/d37923b44b6f455e95c9cadaa278bd40",
-  "catagory" : "utilities",
-  "icon" : "https://github.com/scottdwr/shortcuts-select/depiction/data-integrity-tool.png",
-  "arch" : "ios14",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https://scottdwr.github.io:"
-  },
-  "name" : "Data Integrity Tool",
-  "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/data-integrity-tool.html"
-},{
-  "id" : "com.shortcutspro.ibrary.integrity-logger",
-  "description" : "Accepts Data Integrity formatted JSON payloads.",
-  "version" : "2.1",
+  "id" : "io.github.scottdwr.shortcuts.select.fancy-theme-maker",
+  "description" : "Make custom icons from your downloaded theme",
+  "version" : "0.3",
   "depends" : [
 
   ],
   "author" : {
-    "name" : "@scottdwr",
-    "link" : "https://scottdwr.github.io"
+    "name" : "@robric18",
+    "link" : "https://routinehub.co/user/robric18"
   },
-  "link" : "shortcuts://shortcuts/0a2b80ca86864c81bc948aa9752f7748",
-  "catagory" : "utilities",
-  "icon" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.png",
+  "link" : "https://www.icloud.com/shortcuts/f25f7d7c01a4460e9c48c906ba45a441",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-theme-maker.png",
   "arch" : "ios14",
   "maintainer" : {
     "name" : "@scottdwr",
-    "link" : "https://scottdwr.github.io:"
+    "link" : "https:://scottdwr.github.io"
   },
-  "name" : "Integrity Logger",
-  "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/integrity-logger.html"
-},{
-  "id" : "io.github.scottdwr.library.dynamic-wallpaper",
-  "description" : "Change your scene!  Fresh wallpaper matches the beautiful outdoors as your day goes by. ",
-  "version" : "3",
-  "depends" : [
-    "com.shortcutspro.integrity.data-integrity-tool"
-  ],
-  "author" : {
-    "name" : "@scottdwr",
-    "link" : "https://routinehub.co/user/scottdwr"
-  },
-  "link" : "shortcuts://shortcuts/b1056497480948d1b2ad78b72980eb4f",
-  "catagory" : "lifestyle",
-  "icon" : "https://github.com/scottdwr/shortcuts-select/depiction/dynamic-wallpaper.png",
-  "arch" : "ios14",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https://scottdwr.github.io:"
-  },
-  "name" : "𝑫𝒚𝒏𝒂𝒎𝒊𝒄 𝑾𝒂𝒍𝒍𝒑𝒂𝒑𝒆𝒓",
-  "depiction" : "https://github.com/scottdwr/shortcuts-select/depiction/dynamic-wallpaper.html"
+  "name" : "Fancy Theme Maker",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-theme-maker.html"
 }]
