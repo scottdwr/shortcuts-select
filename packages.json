@@ -649,4 +649,25 @@
   },
   "name" : "Fancy Theme Maker",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-theme-maker.html"
+},{
+  "id" : "io.github.scottdwr.shortcuts.select.install-routinehub-stats-widget",
+  "description" : "Displays stats on customizable widget from Scriptable!",
+  "version" : "2.0",
+  "depends" : [
+
+  ],
+  "author" : {
+    "name" : "@Normal-Tangerine8609",
+    "link" : "https://routinehub.co/user/Normal-Tangerine8609"
+  },
+  "link" : "https://www.icloud.com/shortcuts/ead9195086114aa796fd65c262812b13",
+  "catagory" : "development-tools",
+  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/install-routinehub-stats-widget.png",
+  "arch" : "ios14",
+  "maintainer" : {
+    "name" : "@scottdwr",
+    "link" : "https:://scottdwr.github.io"
+  },
+  "name" : "Install Routinehub Stats Widget",
+  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/install-routinehub-stats-widget.html"
 }]
