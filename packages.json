@@ -524,48 +524,6 @@
   "name" : "Icon Themer",
   "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icon-themer.html"
 },{
-  "id" : "io.github.scottdwr.shortcuts.select.icloud-shortcut-name",
-  "description" : "",
-  "version" : "",
-  "depends" : [
-
-  ],
-  "author" : {
-    "name" : "@",
-    "link" : "https://routinehub.co/user/"
-  },
-  "link" : "",
-  "catagory" : "",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-shortcut-name.png",
-  "arch" : "ios",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https:://scottdwr.github.io"
-  },
-  "name" : "iCloud Shortcut Name",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/icloud-shortcut-name.html"
-},{
-  "id" : "io.github.scottdwr.shortcuts.select.fancy-icon-maker",
-  "description" : "Custom home screen icons without opening shortcuts. Add as many as icons as you want all at once.",
-  "version" : "0.3",
-  "depends" : [
-
-  ],
-  "author" : {
-    "name" : "@robric18",
-    "link" : "https://routinehub.co/user/robric18"
-  },
-  "link" : "https://www.icloud.com/shortcuts/d74594a23453441aa4f567c4a3900272",
-  "catagory" : "graphics-design",
-  "icon" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-icon-maker.png",
-  "arch" : "ios14",
-  "maintainer" : {
-    "name" : "@scottdwr",
-    "link" : "https:://scottdwr.github.io"
-  },
-  "name" : "Fancy Icon Maker",
-  "depiction" : "https://scottdwr.github.io/shortcuts-select/depiction/fancy-icon-maker.html"
-},{
   "id" : "io.github.scottdwr.shortcuts.select.shortcut-source-tool",
   "description" : "View, convert, save source in xml or json format, or edit and export source to Shortcuts",
   "version" : "2.03",
